@@ -1,0 +1,1 @@
+Place clean.bat in the project's root directory (contains .uproject)
