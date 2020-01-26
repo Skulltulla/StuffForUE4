@@ -32,7 +32,8 @@
 
 /Intermediate/
 
-/Plugins/*/Binaries/
+/Plugins/*/Binaries
+#!/Plugins/SomePlugin/Binaries/
 /Plugins/*/Intermediate/
 
 /Saved/
