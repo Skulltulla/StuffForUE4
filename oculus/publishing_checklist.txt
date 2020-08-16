@@ -1,0 +1,33 @@
+# PUBLISHING CHECKLIST
+
+This list is not exhaustive.
+
+## Oculus Dashboard
+
+[ ] App created on Oculus Dashboard
+[ ] App ID from Oculus Dashboard applied to DefaultEngine.ini
+
+## Android
+
+[ ] Generate Keystore
+[ ] Backup Keystore to secure locations
+[ ] Copy keystore to /Project/Build/Android
+[ ] Update Project Settings with Keystore info
+
+[ ] AndroidManifest does not contain unneccessary permissions.
+
+## Project Settings
+
+[ ] Store Version in Project Settings reset to 1 or incremented
+
+[ ] Unique Package Name (Development builds will steal a package name even if the app is deleted)
+[ ] Project Display Title
+
+[ ] Build Configuration = Shipping
+[ ] Full Rebuild = true
+[ ] For Distribution = true
+
+## Levels
+
+[ ] Lighting is built for all levels at Production level and saved.
+
