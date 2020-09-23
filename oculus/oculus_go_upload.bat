@@ -1,6 +1,8 @@
 rem This command was used to upload a build for an Oculus Go project to the Oculus Dashboard
 rem
 rem Add ovr-platform-util.exe to the PATH environment variable
+rem
+rem Release Channels: store, rc, beta, alpha, <custom>
 
 set APP_ID=1234
 set APP_SECRET=1234
