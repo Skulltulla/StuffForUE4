@@ -6,11 +6,7 @@ Location of Android SDK
 
 Location of Android NDK
 
-    // Go
     ..\Android\NDK\android-ndk-r14b
-
-    // Quest
-    ..\AppData\Local\Android\Sdk\ndk\NN.N.NNNNNNN
 
 Location of ANT
 
@@ -26,12 +22,7 @@ SDK API Level
 
 NDK API Level
 
-     // Go
-     android-19
-
-     // Quest
-     android-24
-
+    android-19
 
 # References
 

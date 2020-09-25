@@ -1,0 +1,9 @@
+# Issues
+
+## Package Error | Could not find path sdk\extras
+
+Google Play Services and/or Google USB Driver from the Android SDK manager needed to be installed.
+
+## Install Error | INSTALL_FAILED_OLDER_SDK
+
+The device has an older SDK than what is configured in the Android project settings.
