@@ -2,31 +2,42 @@
 
 ## User Variables
 
+    // Android Studio
     ANDROID_HOME
-    ..\AppData\Local\Android\Sdk
+        ..\AppData\Local\Android\Sdk
 
+    // Java Development Kit 8...
     JAVA_HOME
-    ..\jdk1.8.0_77\jre
+        ..\Program Files\Java\jdk1.8.0_77\jre
 
-    NDK_ROOT
-    NDKROOT
-    ..\android-ndk-r14b
+    // NDK_ROOT
+    // NDKROOT
+    //     ..\android-ndk-r14b
 
-    // automatically configured
+    // automatically configure
     Rider for Unreal Engine
-    ..\ProgramFiles\JetBrains\Rider for Unreal Engine 2020.2\bin
+        ..\ProgramFiles\JetBrains\Rider for Unreal Engine 2020.2\bin
 
     PATH
-    D:\oculus\ // My path to ovr-platform-util.exe, a standalone util.
-    %Rider for Unreal Engine% // automatically configured
-    ..\AppData\Local\Android\Sdk\platform-tools // path to adb.exe, etc.
-    ..\jdk1.8.0_77\jre\bin // path to keytool.exe, etc
+        // OVR Platform Util
+        D:\tools\oculus\ovrplatformutil
+
+        // adb.exe, etc.
+        ..\AppData\Local\Android\Sdk\platform-tools
+
+        // keytool.exe, etc
+        C:\Program Files\Android\Android Studio\jre\bin
+
+        // automatically configured
+        %Rider for Unreal Engine%
 
 ## System Variables
 
     OculusBase
-    C:\Program Files\Oculus // automatically configured
+        // automatically configured
+        C:\Program Files\Oculus
 
     PATH
-    C:\Program Files\Oculus\Support\oculus-runtime // automatically configured
+        // automatically configured
+        C:\Program Files\Oculus\Support\oculus-runtime
 
